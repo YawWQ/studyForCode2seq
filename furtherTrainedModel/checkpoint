@@ -1,0 +1,4 @@
+model_checkpoint_path: "/nobackup/sc19y3l/envCode2Vec/code2vec/models/java14withSmall/java14withSmall_iter3"
+all_model_checkpoint_paths: "/nobackup/sc19y3l/envCode2Vec/code2vec/models/java14withSmall/java14withSmall_iter1"
+all_model_checkpoint_paths: "/nobackup/sc19y3l/envCode2Vec/code2vec/models/java14withSmall/java14withSmall_iter2"
+all_model_checkpoint_paths: "/nobackup/sc19y3l/envCode2Vec/code2vec/models/java14withSmall/java14withSmall_iter3"
